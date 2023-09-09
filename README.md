@@ -67,4 +67,4 @@ For deploying your Next.js SaaS application, consider platforms like Vercel, Net
 
 ---
 
-This README.md is designed to be visually appealing and easy to navigate, making use of Markdown formatting and emoji for clarity and emphasis. Adjust as needed for your project.
+This README.md is designed to be visually appealing and easy to navigate, making use of Markdown formatting and emoji for clarity and emphasis. Written using ChatGPT.
