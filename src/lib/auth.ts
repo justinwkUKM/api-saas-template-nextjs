@@ -11,3 +11,14 @@ export async function mustBeLoggedIn() {
     }
     
 }
+
+
+export async function isLoggedIn() {
+    const session = await getServerSession(authOptions);
+
+    if (!session) {
+       return false;
+    }
+
+    return true
+}

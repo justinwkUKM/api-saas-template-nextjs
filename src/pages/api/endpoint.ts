@@ -59,7 +59,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     res.status(200).json({
         status: true,
-        special_key: data,
+        your_special_custom_output: data,
         log: log
     })
 }
