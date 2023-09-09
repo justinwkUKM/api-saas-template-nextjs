@@ -59,7 +59,7 @@ To dive deeper into each of the integrated technologies, check out their officia
 
 ## 🤝 Contribution
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page]([https://github.com/your-repo-url/api-saas-template-nextjs/issues](https://github.com/justinwkUKM/api-saas-template-nextjs/issues)) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/justinwkUKM/api-saas-template-nextjs/issues) if you want to contribute.
 
 ## 🌐 Deployment
 
