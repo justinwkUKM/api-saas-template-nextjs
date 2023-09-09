@@ -43,7 +43,11 @@ This template serves as a comprehensive starter kit for developers who wish to j
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<img width="1277" alt="Screen Shot 2023-09-10 at 2 54 31 AM" src="https://github.com/justinwkUKM/api-saas-template-nextjs/assets/20006026/786aba3e-4853-4f14-a132-cdada25830ff">
+
+<img width="1314" alt="Screen Shot 2023-09-10 at 4 02 23 AM" src="https://github.com/justinwkUKM/api-saas-template-nextjs/assets/20006026/f0524138-c9f6-45c7-8f86-6b40ab4106e8">
+
+<img width="1335" alt="Screen Shot 2023-09-10 at 4 02 00 AM" src="https://github.com/justinwkUKM/api-saas-template-nextjs/assets/20006026/fe74303a-4189-4632-8807-87328fe0011c">
+
 
 
 ## 🛠 Customization
