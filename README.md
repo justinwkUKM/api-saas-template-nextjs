@@ -43,6 +43,9 @@ This template serves as a comprehensive starter kit for developers who wish to j
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+<img width="1277" alt="Screen Shot 2023-09-10 at 2 54 31 AM" src="https://github.com/justinwkUKM/api-saas-template-nextjs/assets/20006026/786aba3e-4853-4f14-a132-cdada25830ff">
+
+
 ## 🛠 Customization
 
 - **Database**: By default, this template uses SQLite for easy setup. To switch to MySQL, update the database connection string in your `.env.local` file.
